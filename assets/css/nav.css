@@ -1,0 +1,14 @@
+.nav-brand {
+    color: #086e3f !important;
+    font-weight: bold !important;
+}
+
+.nav-elements {
+    color: #104f55 !important;
+    /* font-weight: bold !important; */
+}
+
+.nav-elements:hover {
+    color: #086e3f !important;
+    font-weight: bold !important;
+}
